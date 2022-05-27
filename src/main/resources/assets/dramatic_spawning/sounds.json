@@ -1,0 +1,11 @@
+{
+  "spawn": {
+    "sounds": [
+      {
+        "name": "dramatic_spawning:spawn",
+        "pitch": 1.0,
+        "volume": 1.0
+      }
+    ]
+  }
+}

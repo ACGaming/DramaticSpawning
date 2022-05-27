@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "dramatic_spawning",
+    "name": "Dramatic Spawning",
+    "description": "Spawning has never been so unexpected!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["ACGaming"],
+    "credits": ""
+  }
+]
