@@ -5,8 +5,8 @@
     "description": "Spawning has never been so unexpected!",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "",
+    "url": "https://github.com/ACGaming/DramaticSpawning",
     "authorList": ["ACGaming"],
-    "credits": ""
+    "credits": "Vine"
   }
 ]
