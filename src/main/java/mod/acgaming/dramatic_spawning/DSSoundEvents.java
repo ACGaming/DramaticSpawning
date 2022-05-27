@@ -1,4 +1,4 @@
-package mod.acgaming;
+package mod.acgaming.dramatic_spawning;
 
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvent;

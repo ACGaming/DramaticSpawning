@@ -1,4 +1,4 @@
-package mod.acgaming;
+package mod.acgaming.dramatic_spawning;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.entity.EntityLiving;
